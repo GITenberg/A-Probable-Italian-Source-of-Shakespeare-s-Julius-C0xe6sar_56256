@@ -1,11 +1,16 @@
 _repo: A-Probable-Italian-Source-of-Shakespeare-s-Julius-C0xe6sar_56256
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 56256-h/images/cover.jpg
 creator:
   author:
     agent_name: Boecker, Alexander
     gutenberg_agent_id: '48745'
     url: http://www.gutenberg.org/2009/agents/48745
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/56256#A-Probable-Italian-Source-of-Shakespeare-s-Julius-C0xe6sar
 gutenberg_issued: '2017-12-27'
 gutenberg_type: Text
 identifiers:
